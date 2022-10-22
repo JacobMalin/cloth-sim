@@ -27,7 +27,7 @@ https://media.github.umn.edu/user/19560/files/f51e6d1f-e6c2-4fb2-8c76-65d4367779
 
 The simulation is rendered in 3D using the provided camera created by Liam Tyler.
 
-https://media.github.umn.edu/user/19560/files/35c959d1-0fe6-41bf-b856-6e74cf529886
+https://media.github.umn.edu/user/19560/files/b7307f0a-96e6-4626-9efd-4f13191d20ec
 
 ### High-quality Rendering
 
