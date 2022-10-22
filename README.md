@@ -35,7 +35,7 @@ The cloth is rendered in the context of a scene from the 6th station scene in Sp
 
 ### Air Drag for Cloth
 
-Wind was added to the scene to make the cloth more dynamic. Below are videos with no drag, drag, low wind, med wind, and high wind, respectively.
+Wind was added to the scene to make the cloth more dynamic. The drag is most visible in the sway of the short cloths and the rippliing of the cloths that touch the floor. (Notably the length of the cloth is random and changes between each video.) Below are videos with no drag, drag, low wind, med wind, and high wind, respectively. 
 
 https://media.github.umn.edu/user/19560/files/d7de3539-f9f3-4150-a917-64be6e664e69
 
