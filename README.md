@@ -6,9 +6,9 @@ This project uses cloth animaiton to recreate a short (4-5 second) serene shot f
 
 https://github.com/JacobMalin/cloth-sim/assets/34765120/241d0762-84e7-418f-aca3-ecb229db5b0e
 
-https://github.com/JacobMalin/cloth-sim/assets/34765120/53a9cf2c-ff1f-459d-a834-bb893902f00a
-
 https://github.com/JacobMalin/cloth-sim/assets/34765120/b95b296d-e64f-4f73-8c7c-9f811e13432c
+
+https://github.com/JacobMalin/cloth-sim/assets/34765120/53a9cf2c-ff1f-459d-a834-bb893902f00a
 
 ## Attempted Components
 
@@ -37,15 +37,15 @@ The cloth is rendered in the context of a scene from the 6th station scene in Sp
 
 Wind was added to the scene to make the cloth more dynamic. The drag is most visible in the sway of the short cloths and the rippliing of the cloths that touch the floor. (Notably the length of the cloth is random and changes between each video.) Below are videos with no drag, drag, low wind, med wind, and high wind, respectively. 
 
-https://github.com/JacobMalin/cloth-sim/assets/34765120/4d8be67b-c4f7-440f-9a80-9cde8f35b40c
-
-https://github.com/JacobMalin/cloth-sim/assets/34765120/e292d184-4ac9-44b7-8419-10def98b8204
-
-https://github.com/JacobMalin/cloth-sim/assets/34765120/cbc1d148-e85d-4d0b-91be-0efb3179e82a
+https://github.com/JacobMalin/cloth-sim/assets/34765120/384e0ada-0668-404c-968c-1aa1e5a49aed
 
 https://github.com/JacobMalin/cloth-sim/assets/34765120/f5ce8504-3ac7-4ca0-a008-885eecb210e6
 
-https://github.com/JacobMalin/cloth-sim/assets/34765120/384e0ada-0668-404c-968c-1aa1e5a49aed
+https://github.com/JacobMalin/cloth-sim/assets/34765120/cbc1d148-e85d-4d0b-91be-0efb3179e82a
+
+https://github.com/JacobMalin/cloth-sim/assets/34765120/e292d184-4ac9-44b7-8419-10def98b8204
+
+https://github.com/JacobMalin/cloth-sim/assets/34765120/4d8be67b-c4f7-440f-9a80-9cde8f35b40c
 
 ## Difficulties
 
