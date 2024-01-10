@@ -4,11 +4,11 @@ By: Jacob Malin
 
 This project uses cloth animaiton to recreate a short (4-5 second) serene shot from the Studio Ghibli film, Spirited Away. The scene depicts a small island in the ocean with a billowing clothesline. Below are a close up of the clothesline, my version of the scene, as well as the reference video that I have been working off of.
 
-https://media.github.umn.edu/user/19560/files/f394f275-4266-43f8-b28c-74b2af55f7f8
+https://github.com/JacobMalin/cloth-sim/assets/34765120/2ef74a9a-e4b9-4096-b96c-49c368f2a36b
 
-https://media.github.umn.edu/user/19560/files/4a28d521-968c-419d-ac52-5c94aae0fefb
+https://github.com/JacobMalin/cloth-sim/assets/34765120/090b2624-0bc6-45cc-85ba-b917f4818f95
 
-https://media.github.umn.edu/user/19560/files/9b2316b7-b1dc-47fd-83e2-949f2da8fb13
+https://github.com/JacobMalin/cloth-sim/assets/34765120/5e9b747b-5a52-4206-94a5-65383a4a36e8
 
 ## Attempted Components
 
@@ -21,13 +21,13 @@ https://media.github.umn.edu/user/19560/files/9b2316b7-b1dc-47fd-83e2-949f2da8fb
 
 This simulation models 7 pieces of cloth and one rope. The rope shares points with the tops of the cloths to hold them together. The cloth has one-way collision with the ground, which is shown in the video below.
 
-https://media.github.umn.edu/user/19560/files/f51e6d1f-e6c2-4fb2-8c76-65d43677791d
+https://github.com/JacobMalin/cloth-sim/assets/34765120/1e7f62b9-deb1-4cba-8cc3-4120ba6b9325
 
 ### 3D Simulation
 
 The simulation is rendered in 3D using the provided camera created by Liam Tyler.
 
-https://media.github.umn.edu/user/19560/files/b7307f0a-96e6-4626-9efd-4f13191d20ec
+https://github.com/JacobMalin/cloth-sim/assets/34765120/4e9eb0fd-c626-43c7-99f0-7f8106c13025
 
 ### High-quality Rendering
 
@@ -37,15 +37,15 @@ The cloth is rendered in the context of a scene from the 6th station scene in Sp
 
 Wind was added to the scene to make the cloth more dynamic. The drag is most visible in the sway of the short cloths and the rippliing of the cloths that touch the floor. (Notably the length of the cloth is random and changes between each video.) Below are videos with no drag, drag, low wind, med wind, and high wind, respectively. 
 
-https://media.github.umn.edu/user/19560/files/d7de3539-f9f3-4150-a917-64be6e664e69
+https://github.com/JacobMalin/cloth-sim/assets/34765120/e3cd949c-da6f-41b1-a6e4-8b6f50f460b2
 
-https://media.github.umn.edu/user/19560/files/6632d10e-d639-4cdd-a8cb-ab6530ec56ad
+https://github.com/JacobMalin/cloth-sim/assets/34765120/4fc19d3b-0c43-4ee5-a92b-6a64e5e6038b
 
-https://media.github.umn.edu/user/19560/files/28e6ceff-41d1-44cf-8ce7-f14351ceab6e
+https://github.com/JacobMalin/cloth-sim/assets/34765120/18961e5c-185b-4fa0-ba4c-dbb1c7734642
 
-https://media.github.umn.edu/user/19560/files/20b52f4f-a02a-400a-b3b4-1798d0afb2a9
+https://github.com/JacobMalin/cloth-sim/assets/34765120/d392ed01-63db-4b07-ad46-2fb6b476c10d
 
-https://media.github.umn.edu/user/19560/files/78144274-a992-49dd-a02c-eca34381dd4a
+https://github.com/JacobMalin/cloth-sim/assets/34765120/f7b3800c-5bd6-4587-9d8f-43341a7ced52
 
 ## Difficulties
 
